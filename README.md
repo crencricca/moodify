@@ -15,7 +15,7 @@ UICollectionView organizes buttons for user input selection
 Uses navigation (UINavigationController) to navigate between four View Controller screens.
 Integrates the Spotify API.
 
-Backend: Link
+Backend: 
 
 Databases for both Users who have logged in and Playlists of users (that also adds the current_user into the database with the spotify playlist name that resulted from going through the inputs of mood, genre, and activities. Deployed -API spec: https://paper.dropbox.com/doc/Moodify-API-Spec--AS_o~fveGb_fOjeVi3tvCgpBAQ-9rLTcRNgDuBGrEcOVdtlr
 
