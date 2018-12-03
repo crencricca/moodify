@@ -6,6 +6,7 @@ Moodify takes the user through a brief quiz where they select a mood, activity a
 
 Link to github repos:
 https://github.com/crencricca/moodify
+https://github.com/annashats/moodify <- has backend portion under src
 
 A list of how your app addresses each of the requirements (iOS / Backend)
 iOS:
@@ -14,7 +15,7 @@ UICollectionView organizes buttons for user input selection
 Uses navigation (UINavigationController) to navigate between four View Controller screens.
 Integrates the Spotify API.
 
-Backend:
+Backend: Link
 
 Databases for both Users who have logged in and Playlists of users (that also adds the current_user into the database with the spotify playlist name that resulted from going through the inputs of mood, genre, and activities. Deployed -API spec: https://paper.dropbox.com/doc/Moodify-API-Spec--AS_o~fveGb_fOjeVi3tvCgpBAQ-9rLTcRNgDuBGrEcOVdtlr
 
