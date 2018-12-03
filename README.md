@@ -15,3 +15,9 @@ Uses navigation (UINavigationController) to navigate between four View Controlle
 Integrates the Spotify API.
 
 ![Welcome Screen](https://github.com/crencricca/moodify/blob/master/screenshots/main.png)
+
+![Mood Selection Screen](https://github.com/crencricca/moodify/blob/master/screenshots/playlist.png)
+
+![Playlist Result](https://github.com/crencricca/moodify/blob/master/screenshots/result.png)
+
+![Playlist in Browser](https://github.com/crencricca/moodify/blob/master/screenshots/selection.png)
