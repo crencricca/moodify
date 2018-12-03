@@ -13,3 +13,6 @@ AutoLayout using NSLayoutConstraint.
 UICollectionView organizes buttons for user input selection
 Uses navigation (UINavigationController) to navigate between four View Controller screens.
 Integrates the Spotify API.
+
+
+[[https://github.com/crencricca/moodify/blob/master/screenshots/Screen Shot 2018-12-02 at 8.03.20 PM]]
