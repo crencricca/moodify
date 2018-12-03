@@ -14,5 +14,4 @@ UICollectionView organizes buttons for user input selection
 Uses navigation (UINavigationController) to navigate between four View Controller screens.
 Integrates the Spotify API.
 
-
-[[https://github.com/crencricca/moodify/blob/master/screenshots/main.png]]
+![Welcome Screen](https://github.com/crencricca/moodify/blob/master/screenshots/main.png)
